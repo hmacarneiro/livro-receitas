@@ -4,10 +4,6 @@
 
 ### Hugo
 
-# **VAI PAGAR PRA MIM** 
-
-#### ESTOU PRECISANDO
-
 ## ordered list
 
 ## ordered list
