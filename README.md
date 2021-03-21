@@ -2,6 +2,10 @@
 
 Olá! Bem vindo ao meu livro de receitas.
 
-- Estrogonofe de Frango
+| Item | Descrição|
+| ---|--- |
+|01|Estrogonofe de Frango|
+|02|Macarronada|
 
-- Macarronada
+
+
